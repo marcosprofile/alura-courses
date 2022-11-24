@@ -1,2 +1,2 @@
 # alura-courses
- Pasta para armazenar estudos realizados na ALURA
+ Repositório para armazenar estudos realizados na ALURA
