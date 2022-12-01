@@ -37,16 +37,12 @@ sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
 
 ## Ícones
 
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
-
 ```css
 @font-face {
     font-family: 'icones';
     src: url(../font/icones.ttf);
 }
 ```
-
-> Cuidado com a localização do arquivo `icones.ttf`
 
 Camisas = `\e900`
 
