@@ -1,9 +1,5 @@
 # Guia de estilos
 
-Toda a estilização que será usada no projeto dentro do figma.
-
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
-
 ## Fonte
 
 ```html
@@ -37,16 +33,12 @@ sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
 
 ## Ícones
 
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
-
 ```css
 @font-face {
     font-family: 'icones';
     src: url(../font/icones.ttf);
 }
 ```
-
-> Cuidado com a localização do arquivo `icones.ttf`
 
 Camisas = `\e900`
 
